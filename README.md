@@ -1,4 +1,5 @@
-# Pharmacy management system. 
+## Med at the door.
+A pharmacy management system
 
 | Tools/Language | Database | StyleSheet |
 | --- | -- | -- |
